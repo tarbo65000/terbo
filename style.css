@@ -11,3 +11,13 @@ color: aqua;
 a:hover{
 color: red;
 }
+.smoothbutton {
+    border: none;
+    text-align:center;
+    color: white;
+    border: radius 9px;
+    padding: 10px 24px; 
+    background-color: #ba00a4;
+    font-size: 16px;
+    cursor:pointer;
+}
